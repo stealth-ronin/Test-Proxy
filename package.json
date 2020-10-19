@@ -1,0 +1,14 @@
+{
+  "name": "proxy-cage",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Evervault Inc.",
+  "license": "ISC",
+  "dependencies": {
+    "got": "^11.6.2"
+  }
+}

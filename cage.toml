@@ -1,0 +1,8 @@
+[cage.playground]
+url = "https://httpbin.org/post"
+
+[cage.playground.options]
+json = {
+  magic = "yes"
+  number = 42
+}
